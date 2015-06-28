@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <clientList>
+        <logoPath>src\main\resources\0986-FOZ-Deyan.jpg</logoPath>
+        <name>Deyan</name>
+        <note>Hello world</note>
+        <place>Sofia</place>
+        <signingContractDate>28.06.2015</signingContractDate>
+    </clientList>
+    <clientList>
+        <logoPath>src\main\resources\6.jpg</logoPath>
+        <name>Bear</name>
+        <note>What does the bear say?</note>
+        <place>Forest</place>
+        <signingContractDate></signingContractDate>
+    </clientList>
+    <clientList>
+        <logoPath>src\main\resources\beer.jpg</logoPath>
+        <name>Beer</name>
+        <note>Everyone loves beer</note>
+        <place>World</place>
+        <signingContractDate></signingContractDate>
+    </clientList>
+</wrapper>
