@@ -11,14 +11,14 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Wrapper {
 
-	protected List<Client> clientList;
+    protected List<Client> clientList;
 
-	public Wrapper() {
-		this.clientList = ClientList.getInstance().getArrayList();
-	}
+    public Wrapper() {
+        this.clientList = ClientList.getInstance().getArrayList();
+    }
 
-	public List<Client> getClientList() {
-		return this.clientList;
-	}
+    public List<Client> getClientList() {
+        return this.clientList;
+    }
 
 }
